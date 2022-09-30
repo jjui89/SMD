@@ -54,7 +54,7 @@
 }
 
 .div8 {
-  background-color: purple;
+  background-color: violet;
   height: 100px;
   width: 200px;
   margin-left: 200px;
@@ -62,11 +62,12 @@
 }
 
 .div9 {
-  background-color: violet;
+
   height: 100px;
   width: 200px;
-  padding-top: 100px;
+
 }
+
 
 body {
   margin: 0;
